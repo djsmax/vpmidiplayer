@@ -11,6 +11,7 @@ By the way, it's enough to open it in the browser: [Click here!](https://github.
 
 
 Along with the Just play and Menu buttons, a new Play MIDI button should appear. Have you seen? So everything works as it should!
+
 ![](https://github.com/djsmax/vpmidiplayer/raw/master/2.png "")
 
 ### Usage
