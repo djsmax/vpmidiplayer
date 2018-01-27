@@ -2,7 +2,12 @@
 VPMIDIPlayer is a UserJS script, launched in Tampermonkey, which adds the function of playing MIDI files to the site [virtualpiano.net](https://virtualpiano.net).
 
 ### How to install
-1. First, install the Tampermonkey extension in your browser. For Chrome, you can find it in the [Chrome extensions store](https://chrome.google.com/webstore/category/extensions), for Opera (15+) on the [extension site for Opera](https://addons.opera.com/ru/extensions/).
+1. First, install the Tampermonkey extension in your browser. Links:
+* for Opera (15+): [https://addons.opera.com/ru/extensions/details/tampermonkey-beta/?display=en](https://addons.opera.com/ru/extensions/details/tampermonkey-beta/?display=en)
+* for Chrome: [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru)
+* for Firefox: [https://addons.mozilla.org/ru/firefox/addon/tampermonkey/](https://addons.mozilla.org/ru/firefox/addon/tampermonkey/)
+
+Note! The script was not tested in Firefox.Perhaps the script will work in other browsers that support UserJS.
 2. After successfully installing Tampermonkey, download the VirtualPiano MIDIPlayer.user.js file.
 By the way, it's enough to open it in the browser: [Click here!](https://github.com/djsmax/vpmidiplayer/raw/master/VirtualPiano%20MIDIPlayer.user.js)
 3. At Tampermonkey's request to install the script, allow installation.
