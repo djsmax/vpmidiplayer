@@ -4,12 +4,14 @@ VPMIDIPlayer is a UserJS script, launched in Tampermonkey, which adds the functi
 ### How to install
 1. First, install the Tampermonkey extension in your browser. For Chrome, you can find it in the [Chrome extensions store](https://chrome.google.com/webstore/category/extensions), for Opera (15+) on the [extension site for Opera](https://addons.opera.com/ru/extensions/).
 2. After successfully installing Tampermonkey, download the VirtualPiano MIDIPlayer.user.js file.
-By the way, it's enough to open it in the browser: [the link will appear later]
-3. At Tampermonkey's request to install the script, allow installation
+By the way, it's enough to open it in the browser: [Click here!](https://github.com/djsmax/vpmidiplayer/raw/master/VirtualPiano%20MIDIPlayer.user.js)
+3. At Tampermonkey's request to install the script, allow installation.
+![](https://github.com/djsmax/vpmidiplayer/raw/master/1.png "")
 4. Restart (if you opened) or open a new tab with the site virtualpiano.net
 
 
 Along with the Just play and Menu buttons, a new Play MIDI button should appear. Have you seen? So everything works as it should!
+![](https://github.com/djsmax/vpmidiplayer/raw/master/2.png "")
 
 ### Usage
 
@@ -18,11 +20,16 @@ To play a MIDI file on the virtual piano, press the Play MIDI button. You will s
 * To pause the playback, press the pause button (the orange one). Pausing playback, click on it again to continue.
 * To finish playback, and perhaps select another file - click the "Retry" button with a rounded arrow.
 
+### Video
+
+Video coming soon..
 
 ### Bugs
 
-* A small problem with CSS-layout: if the field for selecting a file is displayed on the screen, the entire area slides down, it looks ugly
+* A small problem with CSS-layout: if the field for selecting a file is displayed on the screen, the entire area slides down, it looks ugly.. but CSS is awesome!
 * Sometimes, when you click the "Retry" button, the interface changes, but the music continues to play. This is due to the problems of assynchronism. I know perfectly well about this, but I can not offer anything yet.
+* When there is more than one track in the MIDI file, the track selector appears. Sometimes, instead of the names of tracks, strange names appear like "(40,0,7)"
+
 By the way, any questions are welcome!
 
 ### Third-Party packages
