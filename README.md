@@ -8,6 +8,7 @@ VPMIDIPlayer is a UserJS script, launched in Tampermonkey, which adds the functi
 * for Firefox: [https://addons.mozilla.org/ru/firefox/addon/tampermonkey/](https://addons.mozilla.org/ru/firefox/addon/tampermonkey/)
 
 Note! The script was not tested in Firefox.Perhaps the script will work in other browsers that support UserJS.
+
 2. After successfully installing Tampermonkey, download the VirtualPiano MIDIPlayer.user.js file.
 By the way, it's enough to open it in the browser: [Click here!](https://github.com/djsmax/vpmidiplayer/raw/master/VirtualPiano%20MIDIPlayer.user.js)
 3. At Tampermonkey's request to install the script, allow installation.
