@@ -20,6 +20,8 @@ Along with the Just play and Menu buttons, a new Play MIDI button should appear.
 
 ![Pic 2](https://github.com/djsmax/vpmidiplayer/raw/master/2.png "Pic 2")
 
+By the way, if you want to play the melody yourself - [use my script-converter](https://github.com/djsmax/vpmidconverter)!
+
 ### Usage
 
 To play a MIDI file on the virtual piano, press the Play MIDI button. You will see the file select interface. Select the appropriate MIDI file and confirm the selection. The file will start playing automatically.
